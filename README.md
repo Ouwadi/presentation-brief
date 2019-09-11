@@ -10,13 +10,13 @@ set out Objective
 
 if needed
 
-#### Outline/Agenda
+### Outline/Agenda
 
-##### Sections 
+### Sections
 Lead-in
 content(3 arguments: rule of 3)
 key takeaway - summary
 
-###### Conclusion/Summary
+### Conclusion/Summary
 
-####### Any Questions
+### Any Questions
